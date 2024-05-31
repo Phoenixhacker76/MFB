@@ -1,10 +1,5 @@
 # Movie Finder
-<p align="center">
-  <img width="150" height="150" src="logo.png")>
-</p>
-<p align="center"> 
-  <strong>Find information about movies and series with a single message 🎬</strong>
-</p>
+
 
 <p align="center">
   <a href="https://core.telegram.org/bots/api" target="_blank">
